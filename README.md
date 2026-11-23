@@ -104,3 +104,7 @@ The project provides an automated and user-friendly solution for examination hal
 ## Author
 
 Developed as an academic embedded systems project.
+
+## Block Diagram
+
+![Smart Exam Hall Monitoring System](Images/Block_Diagram.png)
